@@ -1,4 +1,3 @@
-```md
 # 🌟 m_puffz
 
 Welcome to **m_puffz**, a decentralized web app deployed on the Internet Computer using DFINITY’s SDK. This project showcases a full-stack canister-based dApp featuring a Rust backend and a modern JavaScript frontend, seamlessly integrated on Web3 infrastructure.
