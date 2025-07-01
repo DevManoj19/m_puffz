@@ -130,4 +130,3 @@ MIT License — feel free to fork, remix, and build on top of this project.
 > Built with ❤️ using Rust, JavaScript, and DFINITY SDK on the Internet Computer 🌐
 
 ```
-```
